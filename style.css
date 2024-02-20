@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.upperdiv {
+    position: sticky;
+    position: fixed;
+    display: flex;
+    width: 100%;
+}
+
+
+.maindiv {
+
+    width: 100%;
+    flex-wrap: wrap;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #1D1D1F;
+    color: #D0D0D1;
+}
+
+.navbarapple {
+    flex-wrap: wrap;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    padding-bottom: 18px;
+    padding-top: 18px;
+}
+
+.navbarapple:hover {
+    color: white;
+    transition: ease 0.9s;
+    cursor: pointer;
+}
+
+.cart {
+    background-color: transparent !important;
+}
+
+.herosecimg {
+
+
+
+
+    width: 100%;
+
+
+
+}
+
+.mcardsection {
+    margin: 12px;
+}
+
+.card1img {
+    width: 100%;
+}
+
+.fcontainer {
+    background-color: #F5F5F7;
+}
+
+.deslist {
+
+    gap: 15px;
+
+    list-style: none;
+
+}
+.discp{
+    padding: 60px !important;
+}
+.discriplist{
+    color: #6C6C6C;
+    padding-bottom: 15px;
+    font-size: smaller;
+
+}
+.footerline{
+    color:  #6C6C6C;
+    padding-left: 30px;
+}
+.mfooter{
+    font-size: small;
+    list-style: none;
+    padding-bottom: 15px !important;
+}
+.mfooterlines{
+    font-size: smaller;
+    padding-bottom: 10px;
+    color: #6C6C6C;
+
+}
+.mfooterlines:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.footermheading{
+
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+.ddf{
+    padding-left: 100px;
+}
+.footerpara{
+    font-size: smaller;
+    color: #6C6C6C;
+}
+.blah{
+    font-size: smaller;
+    color:#6C6C6C ;
+}
+.blahg{
+    text-decoration: none;
+}
